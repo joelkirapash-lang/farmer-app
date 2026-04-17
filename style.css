@@ -1,0 +1,13 @@
+/* Custom Green Theme tweaks */
+.navbar-nav .nav-link:hover {
+    color: #ffc107 !important; /* Golden hover effect */
+}
+
+footer {
+    border-top: 4px solid #198754;
+}
+
+/* Makes images look professional */
+.img-fluid {
+    border: 5px solid white;
+}
